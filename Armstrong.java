@@ -9,7 +9,7 @@ public class Armstrong {
     public static long[][] lArray = new long[20][10];
     public static TreeSet<Long> lSet = new TreeSet<Long>();
     static long glN = 0;
- //
+
     static {
         for (int i = 1; i < 10; i++) {
             for (int j = 1; j < 20; j++) {
